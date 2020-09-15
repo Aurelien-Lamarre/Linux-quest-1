@@ -1,0 +1,65 @@
+Last login: Tue Sep 15 10:43:22 on ttys001
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+Aureliens-MBP:~ aurex$ ls
+Applications
+Ch_4-5__Duke_Ellington__Reading_Questions.docx
+Desktop
+Documents
+Downloads
+Library
+Movies
+Music
+Pictures
+Public
+eclipse
+wild-git
+workspace
+xml
+Aureliens-MBP:~ aurex$ cd xml
+Aureliens-MBP:xml aurex$ pwd
+/Users/aurex/xml
+Aureliens-MBP:xml aurex$ cd ../
+Aureliens-MBP:~ aurex$ ls
+Applications
+Ch_4-5__Duke_Ellington__Reading_Questions.docx
+Desktop
+Documents
+Downloads
+Library
+Movies
+Music
+Pictures
+Public
+eclipse
+wild-git
+workspace
+xml
+Aureliens-MBP:~ aurex$ cd Documents
+Aureliens-MBP:Documents aurex$ ls
+GitHub
+Aureliens-MBP:Documents aurex$ cd Github
+Aureliens-MBP:Github aurex$ ls
+helloWorld
+Aureliens-MBP:Github aurex$ pwd
+/Users/aurex/Documents/Github
+Aureliens-MBP:Github aurex$ cd ../
+Aureliens-MBP:Documents aurex$ cd ../
+Aureliens-MBP:~ aurex$ ls
+Applications
+Ch_4-5__Duke_Ellington__Reading_Questions.docx
+Desktop
+Documents
+Downloads
+Library
+Movies
+Music
+Pictures
+Public
+eclipse
+wild-git
+workspace
+xml
+Aureliens-MBP:~ aurex$ 
